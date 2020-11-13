@@ -1,0 +1,9 @@
+C:\Users\Kamil\source\repos\wykresy_bitmapa\wykresy_bitmapa\bin\Debug\wykresy_bitmapa.exe.config
+C:\Users\Kamil\source\repos\wykresy_bitmapa\wykresy_bitmapa\bin\Debug\wykresy_bitmapa.exe
+C:\Users\Kamil\source\repos\wykresy_bitmapa\wykresy_bitmapa\bin\Debug\wykresy_bitmapa.pdb
+C:\Users\Kamil\source\repos\wykresy_bitmapa\wykresy_bitmapa\obj\Debug\wykresy_bitmapa.csprojAssemblyReference.cache
+C:\Users\Kamil\source\repos\wykresy_bitmapa\wykresy_bitmapa\obj\Debug\wykresy_bitmapa.Form1.resources
+C:\Users\Kamil\source\repos\wykresy_bitmapa\wykresy_bitmapa\obj\Debug\wykresy_bitmapa.Properties.Resources.resources
+C:\Users\Kamil\source\repos\wykresy_bitmapa\wykresy_bitmapa\obj\Debug\wykresy_bitmapa.csproj.GenerateResource.cache
+C:\Users\Kamil\source\repos\wykresy_bitmapa\wykresy_bitmapa\obj\Debug\wykresy_bitmapa.exe
+C:\Users\Kamil\source\repos\wykresy_bitmapa\wykresy_bitmapa\obj\Debug\wykresy_bitmapa.pdb
